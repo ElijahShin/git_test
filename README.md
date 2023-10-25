@@ -1,2 +1,3 @@
 # git_test
-The beginning of an incredible journey!
+Hello Odin!
+This is the beginning of an incredible journey!
